@@ -18,8 +18,6 @@
 
 ## Bugs Found and Fixed
 
-- **Hardest test:** TC04 — entering a grade of 101.
+- **Hardest test:** TC04 — entering a grade of 101 or beyond.
 - **Explanation:** The program must reject grades outside the range of 0–100.
 - **Result:** The existing validation correctly rejects the invalid grade, so no code modification is required.
-
-> **Note:** The actual results and Pass/Fail statuses above are illustrative. Run each test in your program to confirm the results before submitting the test-case document.
