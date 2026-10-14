@@ -33,7 +33,7 @@ Student 4: 65
 Student 5: 87
  
 ## Test Cases
-I performed 10 tests. __ passed and __ failed.
+I performed 10 tests. 10 passed and 0 failed.
 Full details are in test_cases.md.
  
 ## Known Limitations
